@@ -1,3 +1,13 @@
+Øvelse i brug af GitHub:
+New repository oprettet direkte i GitHub: https://github.com/linejung/datasciencelab
+index.md - side oprettet
+Valgt theme: Time machine
+Published
+
+Herefter downloaded til desktop-versionen af GitHub
+Nu åbnet og edited i Atom.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/linejung/datasciencelab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
