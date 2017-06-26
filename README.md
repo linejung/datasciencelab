@@ -7,7 +7,11 @@ Published
 Herefter downloaded til desktop-versionen af GitHub<br>
 Nu åbnet og edited i Atom.<br>
 Kunne ikke finde ud af at committe; forsøgte at committe fra Atom, men i stedet skal committes fra desktop-versionen.<br>
-Det lykkedes men jeg mangler linjeskift i min tekst, så det vil jeg forsøge nu.
+Det lykkedes men jeg mangler linjeskift i min tekst, så det vil jeg forsøge nu.<br>
+
+**DET LYKKEDES** :satisfied:
+
+Så nu har jeg kastet mig ud i emojis!
 
 
 
