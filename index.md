@@ -1,5 +1,8 @@
-# Pæn overskrift
-Dette er skrevet i **markdown**
+# Forslag til Vitus' eller Matildes hjemmeside
+Den kan handle om at læse, eller om at skrive bøger - og så kan den selvfølgelig handle om RL, eller bare om sommerferie
 
-## Pæn rubrik-overskrift
-Markdown er et opmærkningssprog som minder om det der blev anvendt på *gamle* wiki'er. 
+## Yndlingsaktiviteter i sommerferien
+-spise is og jordbær
+-bade i fjorden, havet eller svømmehallen
+-tænde bål og grille pølser
+-lave ingenting
