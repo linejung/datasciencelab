@@ -1,11 +1,14 @@
-Øvelse i brug af GitHub:
+Øvelse i brug af GitHub:<br>
 New repository oprettet direkte i GitHub: https://github.com/linejung/datasciencelab
-index.md - side oprettet
-Valgt theme: Time machine
+index.md - side oprettet<br>
+Valgt theme: Time machine<br>
 Published
 
-Herefter downloaded til desktop-versionen af GitHub
-Nu åbnet og edited i Atom.
+Herefter downloaded til desktop-versionen af GitHub<br>
+Nu åbnet og edited i Atom.<br>
+Kunne ikke finde ud af at committe; forsøgte at committe fra Atom, men i stedet skal committes fra desktop-versionen.<br>
+Det lykkedes men jeg mangler linjeskift i min tekst, så det vil jeg forsøge nu.
+
 
 
 ## Welcome to GitHub Pages
